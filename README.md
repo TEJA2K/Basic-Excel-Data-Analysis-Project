@@ -7,10 +7,6 @@ The dataset consists of:
 - **Working sheet**: Processed data for analysis.
 - **Pivot**: Summary of key statistics using pivot tables.
 - **Dashboard**: Includes visualizations created to summarize the key insights derived from the data. This dashboard focuses on trends like income influence, occupation analysis, and age group purchasing behaviors.
-## Insights
-1. Higher-income individuals are more likely to purchase bikes.
-2. Specific occupations, such as professionals, show higher purchasing trends.
-3. Age groups like "Middle Age" demonstrate distinct purchasing patterns.
 ## Dashboard
 The dashboard highlights key insights:
 1. Income trends affecting bike purchases.
@@ -27,4 +23,7 @@ The dashboard provides the following insights:
 4. Dynamic filters for region, gender, and occupation for deeper analysis.
 
 Download the file and explore the dashboard for interactive data filtering and detailed visualizations.
-
+## Insights
+1. Higher-income individuals are more likely to purchase bikes.
+2. Specific occupations, such as professionals, show higher purchasing trends.
+3. Age groups like "Middle Age" demonstrate distinct purchasing patterns.
