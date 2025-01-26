@@ -16,3 +16,15 @@ The dashboard highlights key insights:
 1. Income trends affecting bike purchases.
 2. Popular occupations among bike purchasers.
 3. Age group behaviors in purchasing patterns.
+## Dashboard
+### Bike Sales Dashboard
+![image](https://github.com/user-attachments/assets/f80c62c4-fafe-482c-aa2c-26ea4c29eeef)
+
+The dashboard provides the following insights:
+1. Average income differences between purchasers and non-purchasers by gender.
+2. Bike purchase trends based on commute distance.
+3. Purchasing behavior across age brackets (Adolescent, Middle Age, Old).
+4. Dynamic filters for region, gender, and occupation for deeper analysis.
+
+Download the file and explore the dashboard for interactive data filtering and detailed visualizations.
+
